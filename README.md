@@ -1,4 +1,4 @@
-Hard-Mod New for ZPS 3.1
+Hard-Mod OLD for ZPS 2.4
 ===
 
 @godsmack787
