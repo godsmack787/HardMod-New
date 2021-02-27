@@ -1,4 +1,4 @@
-787
+Hard-Mod New for ZPS 3.1
 ===
 
 ZPS CLASSES MOD SOURCECODE
